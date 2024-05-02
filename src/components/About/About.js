@@ -20,7 +20,7 @@ function About() {
           </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-              Hello! My name is <strong>Aayush Thapaliya</strong>. I'm
+              Hello! My name is <strong>Arun Giri</strong>. I'm
               originally from Nepal and have been living in US for the past
               three years as a Resident. During my time here, I gained valuable
               experience through various projects with my team mates, which
