@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e70bda22.css",
-    "main.js": "/static/js/main.5d0aa206.js",
+    "main.js": "/static/js/main.3c864c64.js",
     "static/media/trading_bot.jpeg": "/static/media/trading_bot.1d7eb4d63b629c9b1dff.jpeg",
     "static/media/scamemail-image.jpeg": "/static/media/scamemail-image.c5006aa178ad7a823197.jpeg",
     "static/media/collegehub.jpeg": "/static/media/collegehub.5f58fc575b8c2606149d.jpeg",
     "index.html": "/index.html",
     "static/media/blob-haikei.svg": "/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
     "main.e70bda22.css.map": "/static/css/main.e70bda22.css.map",
-    "main.5d0aa206.js.map": "/static/js/main.5d0aa206.js.map"
+    "main.3c864c64.js.map": "/static/js/main.3c864c64.js.map"
   },
   "entrypoints": [
     "static/css/main.e70bda22.css",
-    "static/js/main.5d0aa206.js"
+    "static/js/main.3c864c64.js"
   ]
 }
