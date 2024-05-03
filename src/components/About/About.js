@@ -20,41 +20,32 @@ function About() {
           </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-              Hello! My name is <strong>Arun Giri</strong>. I'm
-              originally from Nepal and have been living in US for the past
-              three years as a Resident. During my time here, I gained valuable
-              experience through various projects with my team mates, which
-              greatly enhanced my work ethic, communication skills, and
-              adaptability.
+            Hello, I am <strong>Arun Giri</strong> a motivated and dedicated individual with a passion for software engineering 
+            and a strong foundation in computer science equipped with my Bachelor's degree in Computer Science from Fisk University. 
+            I am currently working as a Full stack Engineer at Algorizin.
+        
+            </ScrollAnimation>
+            <br />
+            <br />
+
+            <ScrollAnimation animateIn="fadeInLeft">
+            I am currently a Full Stack Developer at Algorizin, Inc., where I've developed Algorizin Copilot, a platform that significantly streamlines legal procedures for international students. My work includes enhancing user engagement by 25% through a fine-tuned GPT model, improving legal compliance by 40% with an AI-powered application, and reducing business start-up times by 30% with advanced data processing features. My projects leverage technologies like Next.js, Node.js, and TypeScript to facilitate efficient, technology-driven solutions
+        
             </ScrollAnimation>
 
             <br />
             <br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-              I am a certified solution architect and a Computer Science student
-              based in Arlington, Texas. Currently pursuing a Bachelor's degree
-              at the University of Texas at Arlington, with an expected
-              graduation in 2027. I have a strong proficiency in programming
-              languages such as Python, HTML/CSS, JavaScript, and C++. I am
-              experienced in utilizing frameworks like ReactJS, NodeJS, and
-              Django. Some notable projects I have worked on include developing
-              a full-stack chatbot with AI capabilities, Trading Bot and
-              implementing secure authentication using the MERN stack. Alongside
-              my academic pursuits, I have also worked as a tutor, fostering a
-              supportive learning environment, and gained valuable experience at
-              an Amazon Delivery Station, refining my communication skills.
+            During my two internships with Microsoft's Cloud Security Team, I developed a bot to automate ticket tagging, reducing manual tagging time by 4 hours/day and improving customer query response time by 20%. Additionally, I led efforts in vulnerability detection within Azure functions, reducing potential security risks by 10% and enhancing Microsoft Defender Cloud's capabilities. These experiences have honed my technical skills and demonstrated the impact of innovative solutions in real-world software engineering.
             </ScrollAnimation>
 
             <br />
             <br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-              Working collaboratively within a team towards a shared objective
-              has been an incredibly rewarding and unique experience for me. I
-              am eager to continue exploring exciting projects in the future,
-              with a particular interest in web development and cross-platform
-              mobile development.
+            I've led various impactful projects, showcasing my proficiency in diverse technologies. College Hub, developed with HTML, JavaScript, CSS, Bootstrap, React, Python, and Django, assists international students in U.S. university applications. Take Flight (Airy) simplifies flight booking using HTML, CSS, ReactJS, and American Airlines API integration. Fisk Serve, built with HTML, CSS, ReactJS, and NodeJS, enhances dining experiences at Fisk University’s Dining Hall. These projects highlight my adeptness in delivering innovative solutions across multiple tech stacks.
+
               <div className="tagline2">
                 I have become confident using the following technologies:
               </div>

@@ -35,10 +35,10 @@ function ProjectCard() {
                 {list.github_url.length > 0 && (
                   <a
                     className="btn SecondaryBtn btn-shadow"
-                    href={list.github_url}
+                    href= "https://arungiri392.github.io/SEOT/"
                     target="_blank"
                     rel="noopener noreferrer">
-                    Github
+                    Learn More
                   </a>
                 )}
                 {/* {list.demo_url.length > 0 && (

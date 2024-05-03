@@ -1,36 +1,35 @@
 // --------------------------------------- Project List
-import img from "./scamemail-image.jpeg";
-import bot from "./trading_bot.jpeg";
-import college from "./collegehub.jpeg";
+import img from "./arunmicrosoft.jpg";
+import bot from "./trading_bot.png";
+import college from  "./arunbadge.jpg"
 export const ProjectList = [
   {
     img: bot,
-    title: "Trading bot",
+    title: "Full stack Developer at Algorizin, Inc",
     description:
-      "Trading bot capable of algorithmic trading using indicators like RSI, MACD which takes automatic profic and stop loss",
+      " Developed the SEOT, an AI-powered tool enabling F1 students to start businesses post-graduation, incorporating advanced data collection and automated business creation via Doola.com APIs. Also implemented AI-driven contract generation to simplify compliance",
     tech_stack: [
       "ReactJS",
       "NodeJS",
-      "Django",
-      "Python",
-      "Algorithms",
-      "AWS",
-      "Microservices",
+      "NextJs",
+      "Express JS",
+      "Tailwind CSS",
+      
     ],
     github_url: "https://github.com/aayush6200/react-coinbase-bot",
     // demo_url: "https://youknowtheending.net/",
   },
   {
     img: img,
-    title: "Secure Inbox App",
+    title: "Microsoft Corporation - Software Engineering Internship- (May 2023 to September 2023) ",
     description:
-      "An  awareness raising email scanner that utilizes third party APIs to verify domains, Url and utilizes GPT-4 and more than 50 prompts to verify email contents",
+      "Developed a bot to automate ticket tagging and enhance customer service for the 'Shaintel' team within the Incident & Case Management system. Utilized Kusto for data extraction and GPT-4 via OpenAI endpoints for generating intelligent, context-aware responses. Achievements include reducing manual tagging time by 4 hours daily, improving response times by 20%, and boosting customer satisfaction by 15%.",
     tech_stack: [
-      "ReactJS",
-      "NodeJS",
-      "firebase",
+      ".Net",
+      "C#",
+      "Java",
       "Machine Learning",
-      "third party APIs",
+      "Kusto Query Language(KQL)",
       "GPT-4",
       "Prompt engineering",
     ],
@@ -40,10 +39,10 @@ export const ProjectList = [
 
   {
     img: college,
-    title: "College Hub",
+    title: "Microsoft Corporation - Software Engineering Internship- (May 2022 to September 2022) ",
     description:
-      "A website that can provide students with relevent informations about universities such as tuitions, deadline etc",
-    tech_stack: ["React JS", "Python", "Django", "PostgreSQL", "AWS"],
+      "Led file and process analyses within Azure functions to identify and mitigate vulnerabilities, enhancing Microsoft Azure's cloud security. Developed a predictive vulnerability detection system that strengthened Microsoft Defender Cloud by using historical data to implement proactive security measures. Improved Azure portal user awareness by providing updates and actionable recommendations, reducing potential security risks by 10%",
+    tech_stack: ["Microsoft Azure", "Azure functions", "Django", "PostgreSQL", "AWS"],
     github_url: "",
     // demo_url: "https://jobdetective.onrender.com/",
   },

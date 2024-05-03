@@ -31,7 +31,7 @@ function Hero() {
             <ScrollAnimation animateIn="fadeIn">
               <TypeAnimation
                 cursor={false}
-                sequence={["Hi, I'm Aayush.", () => setShowSubtitle(true)]}
+                sequence={["Hi, I'm Arun Giri.", () => setShowSubtitle(true)]}
                 speed={{ type: "keyStrokeDelayInMs", value: 150 }}
                 wrapper="h1"
                 repeat={0}
@@ -41,9 +41,9 @@ function Hero() {
                   cursor={true}
                   sequence={[
                     500,
-                    "A Backend Developer and cloud enthusiast",
+                    "A full stack engineer and problem solver",
                     1000,
-                    "A Freshman at University of Texas at Arlington, Texas",
+                    "A full stack enginner at Algorizin.",
                     1000,
                     "A problem solver.",
                     1000,

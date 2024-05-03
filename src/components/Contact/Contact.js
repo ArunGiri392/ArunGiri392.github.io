@@ -31,7 +31,7 @@ function Contact() {
                   flexWrap: "wrap",
                   justifyContent: "center",
                 }}>
-                <span>aayushthpl@gmail.com</span>
+                <span>arungirii100@gmail.com</span>
                 <Tooltip
                   PopperProps={{
                     disablePortal: true,
