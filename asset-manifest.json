@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e70bda22.css",
-    "main.js": "/static/js/main.3c864c64.js",
-    "static/media/trading_bot.jpeg": "/static/media/trading_bot.1d7eb4d63b629c9b1dff.jpeg",
-    "static/media/scamemail-image.jpeg": "/static/media/scamemail-image.c5006aa178ad7a823197.jpeg",
-    "static/media/collegehub.jpeg": "/static/media/collegehub.5f58fc575b8c2606149d.jpeg",
+    "main.js": "/static/js/main.abec186b.js",
+    "static/media/arunmicrosoft.jpg": "/static/media/arunmicrosoft.4879e9a6d2ee7b966377.jpg",
+    "static/media/arunbadge.jpg": "/static/media/arunbadge.c016bcc32f9d2c4fc5f8.jpg",
+    "static/media/trading_bot.png": "/static/media/trading_bot.6299138f16931f4770f8.png",
     "index.html": "/index.html",
     "static/media/blob-haikei.svg": "/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
     "main.e70bda22.css.map": "/static/css/main.e70bda22.css.map",
-    "main.3c864c64.js.map": "/static/js/main.3c864c64.js.map"
+    "main.abec186b.js.map": "/static/js/main.abec186b.js.map"
   },
   "entrypoints": [
     "static/css/main.e70bda22.css",
-    "static/js/main.3c864c64.js"
+    "static/js/main.abec186b.js"
   ]
 }
